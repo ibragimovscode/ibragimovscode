@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rahmetullah Ibragimov
 - 👀 I’m interested in IOS developing
-- 🌱 I’m currently learning Computer Science course from Harvard online courses called CS50
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Computer Science course from Harvard University online courses called CS50
+- 💞️ I’m looking for a mentor.
 - 📫 How to reach me: twitter @ibragimov.co
 email: socialkavinsky@gmail.com
 
